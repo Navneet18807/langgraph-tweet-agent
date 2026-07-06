@@ -1,2 +1,3 @@
-# langgraph-tweet-agent
-An AI-powered tweet generation agent built with LangGraph that generates, evaluates, and iteratively improves tweets using GPT-4.1-mini and structured outputs.
+# LangGraph Tweet Agent
+
+An Agentic AI application that generates, evaluates, and iteratively improves tweets using LangGraph, OpenAI GPT-4.1-mini, and structured outputs.
